@@ -1,2 +1,2 @@
-# plain-ceph-base
-Plain image with basic ceph installation
+# dplain-ceph-base
+Plain debian image with ceph repository setup
